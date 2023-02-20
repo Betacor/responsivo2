@@ -1,3 +1,10 @@
 body{
     background: green;
 }
+.contenedor{
+    margin: auto;
+    width: 500px;
+    height: 90px;
+    margin-top: 10px;
+    border: 1px solid blue;
+}
